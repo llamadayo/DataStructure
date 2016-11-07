@@ -1,0 +1,8 @@
+C:\Users\user\AppData\Local\Temporary Projects\StackArray\bin\Debug\StackArray.exe
+C:\Users\user\AppData\Local\Temporary Projects\StackArray\bin\Debug\StackArray.pdb
+C:\Users\user\AppData\Local\Temporary Projects\StackArray\obj\x86\Debug\StackArray.exe
+C:\Users\user\AppData\Local\Temporary Projects\StackArray\obj\x86\Debug\StackArray.pdb
+C:\Users\user\Desktop\StackArray\StackArray\obj\x86\Debug\StackArray.exe
+C:\Users\user\Desktop\StackArray\StackArray\obj\x86\Debug\StackArray.pdb
+C:\Users\user\Desktop\StackArray\StackArray\bin\Debug\StackArray.exe
+C:\Users\user\Desktop\StackArray\StackArray\bin\Debug\StackArray.pdb
