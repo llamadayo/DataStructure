@@ -1,3 +1,8 @@
+/*
+ * 極簡易Text editor
+ * 具簡單insert, move cousor, remove, copy, paste 等功能
+ */
+
 import java.util.*;
 
 public class Program6
